@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Panterday/Panterday-CRUD-React-Material-UI/static/css/main.afd7172b.chunk.css",
-    "main.js": "/Panterday/Panterday-CRUD-React-Material-UI/static/js/main.b8c5c913.chunk.js",
-    "main.js.map": "/Panterday/Panterday-CRUD-React-Material-UI/static/js/main.b8c5c913.chunk.js.map",
-    "runtime-main.js": "/Panterday/Panterday-CRUD-React-Material-UI/static/js/runtime-main.bbd21161.js",
-    "runtime-main.js.map": "/Panterday/Panterday-CRUD-React-Material-UI/static/js/runtime-main.bbd21161.js.map",
-    "static/js/2.5a9d7984.chunk.js": "/Panterday/Panterday-CRUD-React-Material-UI/static/js/2.5a9d7984.chunk.js",
-    "static/js/2.5a9d7984.chunk.js.map": "/Panterday/Panterday-CRUD-React-Material-UI/static/js/2.5a9d7984.chunk.js.map",
-    "static/js/3.71bc9a9d.chunk.js": "/Panterday/Panterday-CRUD-React-Material-UI/static/js/3.71bc9a9d.chunk.js",
-    "static/js/3.71bc9a9d.chunk.js.map": "/Panterday/Panterday-CRUD-React-Material-UI/static/js/3.71bc9a9d.chunk.js.map",
-    "index.html": "/Panterday/Panterday-CRUD-React-Material-UI/index.html",
-    "static/css/main.afd7172b.chunk.css.map": "/Panterday/Panterday-CRUD-React-Material-UI/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.5a9d7984.chunk.js.LICENSE.txt": "/Panterday/Panterday-CRUD-React-Material-UI/static/js/2.5a9d7984.chunk.js.LICENSE.txt"
+    "main.css": "/Panterday-CRUD-React-Material-UI/static/css/main.afd7172b.chunk.css",
+    "main.js": "/Panterday-CRUD-React-Material-UI/static/js/main.b8c5c913.chunk.js",
+    "main.js.map": "/Panterday-CRUD-React-Material-UI/static/js/main.b8c5c913.chunk.js.map",
+    "runtime-main.js": "/Panterday-CRUD-React-Material-UI/static/js/runtime-main.f1df2120.js",
+    "runtime-main.js.map": "/Panterday-CRUD-React-Material-UI/static/js/runtime-main.f1df2120.js.map",
+    "static/js/2.5a9d7984.chunk.js": "/Panterday-CRUD-React-Material-UI/static/js/2.5a9d7984.chunk.js",
+    "static/js/2.5a9d7984.chunk.js.map": "/Panterday-CRUD-React-Material-UI/static/js/2.5a9d7984.chunk.js.map",
+    "static/js/3.71bc9a9d.chunk.js": "/Panterday-CRUD-React-Material-UI/static/js/3.71bc9a9d.chunk.js",
+    "static/js/3.71bc9a9d.chunk.js.map": "/Panterday-CRUD-React-Material-UI/static/js/3.71bc9a9d.chunk.js.map",
+    "index.html": "/Panterday-CRUD-React-Material-UI/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/Panterday-CRUD-React-Material-UI/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.5a9d7984.chunk.js.LICENSE.txt": "/Panterday-CRUD-React-Material-UI/static/js/2.5a9d7984.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bbd21161.js",
+    "static/js/runtime-main.f1df2120.js",
     "static/js/2.5a9d7984.chunk.js",
     "static/css/main.afd7172b.chunk.css",
     "static/js/main.b8c5c913.chunk.js"
