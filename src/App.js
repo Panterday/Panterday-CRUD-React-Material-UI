@@ -5,7 +5,7 @@ import Typography from '@material-ui/core/Typography'
 function App() {
   return (
     <div>
-      <Typography variant="h2" color="primary" align="center">Ejercicios con React</Typography>
+      <Typography variant="h2" color="primary" align="center">REACT CRUD</Typography>
       <CrudApp></CrudApp>
     </div>
   );
